@@ -1,0 +1,6 @@
+[package]
+name = "registry-rs"
+version = "0.1.0"
+authors = ["Sri Ramanujam <sricharan.ramanujam@gmail.com>"]
+
+[dependencies]
