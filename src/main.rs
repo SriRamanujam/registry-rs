@@ -1,3 +1,4 @@
+extern crate byteorder;
 mod hive;
 
 use std::env;
